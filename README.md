@@ -6,6 +6,10 @@ DOMAIN:WEB DEVELOPMENT
 DURATION:n 4 WEEKS from JUNE 20th, 2024 to JULY 20th, 2024
 OVERVIEW OF THE PROJECT
 
+![Screenshot (37)](https://github.com/engineergyaan/codtech-task1/assets/174811640/f3798e4b-32e6-4b30-8e75-0d5d88b3b1eb)
+
+![Screenshot (36)](https://github.com/engineergyaan/codtech-task1/assets/174811640/25f8c20f-df6e-4bfb-b8f4-149a595611fa)
+
 PROJECT: TO-DO LIST WEB APPLICATION
 Overview:-
 The TO-DO LIST WEB APPLICATION is a comprehensive project that allows users to efficiently manage their daily tasks and enhance productivity. Developed using HTML, CSS, and JavaScript, this web application provides an intuitive interface for adding, completing, and deleting tasks.
